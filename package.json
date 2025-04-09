@@ -1,0 +1,22 @@
+{
+  "name": "caym-color-theme",
+  "displayName": "Caym Theme",
+  "description": "A dark theme created by Caym",
+  "version": "0.0.1",
+  "publisher": "caym",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Caym Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/caym-color-theme.json"
+      }
+    ]
+  }
+}
