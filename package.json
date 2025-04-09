@@ -3,6 +3,10 @@
   "displayName": "Caym Theme",
   "description": "A dark theme created by Caym",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adancaymdev/caym.git"
+  },
   "publisher": "caym",
   "engines": {
     "vscode": "^1.70.0"
